@@ -49,15 +49,17 @@ Here we are going to list multiple commands:
 - **wq** | Save and exit
 
 
+### Tips to read the [Official Vim Docs](http://vimdoc.sourceforge.net/index.php)
+
 In Normal mode, commands are designed to be typed as a sequence of keystrokes. 
 
 Example: 
 
-### Notation	Meaning
-x		Press x once
-dw		In sequence, press **d**, then **w**
-dap		In sequence, press **d**, **a**, then **p**
-
+| Notation      | Meaning |
+| ----------- | ----------- |
+| x      | Press x once       |
+| dw   | In sequence, press **d**, then **w**        |
+| dap   | In sequence, press **d**, **a**, then **p**        |
 
 These may be a little short sequences, but some are longer.
 
