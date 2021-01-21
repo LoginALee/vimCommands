@@ -57,9 +57,9 @@ Example:
 
 | Notation      | Meaning |
 | ----------- | ----------- |
-| x      | Press x once       |
-| dw   | In sequence, press **d**, then **w**        |
-| dap   | In sequence, press **d**, **a**, then **p**        |
+| `x`      | Press x once       |
+| `dw`   | In sequence, press **d**, then **w**        |
+| `dap`   | In sequence, press **d**, **a**, then **p**        |
 
 These may be a little short sequences, but some are longer.
 
@@ -70,10 +70,10 @@ Example:
 
 | Notation      | Meaning |
 | ----------- | ----------- |
-| <C-n>      | Press <Ctrl> and n at the same time       |
-| g<C-]>   | Press g, followed by <Ctrl> and ] at the same time        |
-| <C-r>0   | Press <Ctrl> and r at the same time, then 0        |
-| <C-w><C-=>   | Press <Ctrl> and w at the same time, then <Ctrl> and = at the same time        |
+| `<C-n>`      | Press <Ctrl> and n at the same time       |
+| `g<C-]>`   | Press g, followed by <Ctrl> and ] at the same time        |
+| `<C-r>0`   | Press <Ctrl> and r at the same time, then 0        |
+| `<C-w><C-=>`   | Press <Ctrl> and w at the same time, then <Ctrl> and = at the same time        |
 
 ### Placeholders
 
@@ -83,11 +83,11 @@ Example:
 
 | Notation      | Meaning |
 | ----------- | ----------- |
-| f{char}    | Press f, followedd by any other character       |
-|'{a-z}  | Press ', followed by any lowercase letter        |
-| m{a-zA-Z}   | Press m, followed by any lowercase or uppercase letter        |
-| d{motion}   | Press d, followed by any motion command        |
-| <C-r>{register}   | Press <Ctrl> and r at the same time, followed by the address of a register |
+| `f{char}`    | Press f, followedd by any other character       |
+|`'{a-z}`  | Press ', followed by any lowercase letter        |
+| `m{a-zA-Z}`   | Press m, followed by any lowercase or uppercase letter        |
+| `d{motion}`   | Press d, followed by any motion command        |
+| `<C-r>{register}`   | Press <Ctrl> and r at the same time, followed by the address of a register |
 
 Some keys are called by name, some examples are:
 
