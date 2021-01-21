@@ -12,11 +12,12 @@ instructions or commands better, let's get to it shall we?
 
 ## Move around
 Here we don't use arroy keys, instear we use 
-H -> Left arrow
-J -> Down arrow
-K -> Up arrow
-L -> Right arrow
-
+| Notation      | Meaning |
+| ----------- | ----------- |
+| `H`      | Left arrow       |
+| `J`   | Down arrow        |
+| `K`   | Up arrow       |
+| `L`   | Right arrow       |
 
 ## Commands
 
