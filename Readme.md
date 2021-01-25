@@ -106,3 +106,4 @@ Some keys are called by name, some examples are:
 
 ### Replace Mode
 
+`R` - Press R to acces to replace mode 
