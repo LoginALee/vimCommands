@@ -12,7 +12,7 @@ of the basics in order to learn it myself :) , so there are some notations that 
 instructions or commands better, let's get to it shall we?
 
 ## Move around
-Here we don't use arroy keys, instear we use 
+Here we don't use arroy keys, instear we use
 | Notation      | Meaning |
 | ----------- | ----------- |
 | `H`      | Left arrow       |
@@ -38,7 +38,7 @@ Here we are going to list multiple commands:
 - **b** | Go to previous word
 - **dw** | Delete current word
 - **dd** | Delete the whole current line
-- **set numbers** | Show line numbers 
+- **set numbers** | Show line numbers
 - **u** | Undo an action
 - **Ctrl + r** | Re-do an action
 - **/{word}** | Find a word
@@ -53,9 +53,9 @@ Here we are going to list multiple commands:
 
 ### Tips to read the [Official Vim Docs](http://vimdoc.sourceforge.net/index.php)
 
-In Normal mode, commands are designed to be typed as a sequence of keystrokes. 
+In Normal mode, commands are designed to be typed as a sequence of keystrokes.
 
-Example: 
+Example:
 
 | Notation      | Meaning |
 | ----------- | ----------- |
@@ -97,6 +97,18 @@ Example:
 This is a test
 
 And this is the second change
+| Notation      | Meaning |
+| ----------- | ----------- |
+| `<Esc>`    | Press the Escape key       |
+| `<CR>`  | Press the carriage return key (also known as <Enter>        |
+| `<Ctrl>`   | Press the Control key        |
+| `<Tab>`	   | Press the Tab key       |
+| `<Shift>`   | Press the Shift key |
+| `<S-Tab>`   | Press the <Shift> and <Tab> keys at the same time |
+| `<Up>`   | Press the up arrow key |
+| `<Down>`   | Press the down arrow key |
+| 'test'     | Press test  1 |
+| 'test2|    | Press test  2 |
 
 <!--| Notation      | Meaning |-->
 <!--| ----------- | ----------- |-->
@@ -111,4 +123,4 @@ And this is the second change
 
 ### Replace Mode
 
-`R` - Press R to acces to replace mode 
+`R` - Press R to acces to replace mode
