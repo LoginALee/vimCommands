@@ -5,6 +5,7 @@
 Vim is a highly configurable text editor built to enable efficient text editing.
 It is an improved version of the vi editor distributed with most UNIX systems. Vim is distributed free as charityware
 
+## Aqui estuvo Alex otra vez gg
 
 The best way to learn Vim is by reading its documentation, but in this repo im going to collect some
 of the basics in order to learn it myself :) , so there are some notations that will help us read the
