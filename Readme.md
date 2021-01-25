@@ -104,7 +104,7 @@ Some keys are called by name, some examples are:
 | `<Up>`   | Press the up arrow key |
 | `<Down>`   | Press the down arrow key |
 | 'test'     | Press test  1 |
-
+| 'test2|    | Press test  2 |
 
 
 
