@@ -78,19 +78,19 @@ Example:
 
 ### Placeholders
 
-Some commands must be followed by a particular kind of keystroke. while other commands can be followed by any key on the keyboard.
+<!--Some commands must be followed by a particular kind of keystroke. while other commands can be followed by any key on the keyboard.-->
 
-Example:
+<!--Example:-->
 
-| Notation      | Meaning |
-| ----------- | ----------- |
-| `f{char}`    | Press f, followedd by any other character       |
-|`'{a-z}`  | Press ', followed by any lowercase letter        |
-| `m{a-zA-Z}`   | Press m, followed by any lowercase or uppercase letter        |
-| `d{motion}`   | Press d, followed by any motion command        |
-| `<C-r>{register}`   | Press <Ctrl> and r at the same time, followed by the address of a register |
+<!--| Notation      | Meaning |-->
+<!--| ----------- | ----------- |-->
+<!--| `f{char}`    | Press f, followedd by any other character       |-->
+<!--|`'{a-z}`  | Press ', followed by any lowercase letter        |-->
+<!--| `m{a-zA-Z}`   | Press m, followed by any lowercase or uppercase letter        |-->
+<!--| `d{motion}`   | Press d, followed by any motion command        |-->
+<!--| `<C-r>{register}`   | Press <Ctrl> and r at the same time, followed by the address of a register |-->
 
-Some keys are called by name, some examples are:
+<!--Some keys are called by name, some examples are:-->
 
 
 <!--| Notation      | Meaning |-->
