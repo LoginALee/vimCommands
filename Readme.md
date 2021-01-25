@@ -92,6 +92,10 @@ Example:
 
 <!--Some keys are called by name, some examples are:-->
 
+### varo changes
+This is a test
+
+And this is the second change
 
 <!--| Notation      | Meaning |-->
 <!--| ----------- | ----------- |-->
