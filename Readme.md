@@ -78,31 +78,31 @@ Example:
 
 ### Placeholders
 
-Some commands must be followed by a particular kind of keystroke. while other commands can be followed by any key on the keyboard.
+<!--Some commands must be followed by a particular kind of keystroke. while other commands can be followed by any key on the keyboard.-->
 
-Example:
+<!--Example:-->
 
-| Notation      | Meaning |
-| ----------- | ----------- |
-| `f{char}`    | Press f, followedd by any other character       |
-|`'{a-z}`  | Press ', followed by any lowercase letter        |
-| `m{a-zA-Z}`   | Press m, followed by any lowercase or uppercase letter        |
-| `d{motion}`   | Press d, followed by any motion command        |
-| `<C-r>{register}`   | Press <Ctrl> and r at the same time, followed by the address of a register |
+<!--| Notation      | Meaning |-->
+<!--| ----------- | ----------- |-->
+<!--| `f{char}`    | Press f, followedd by any other character       |-->
+<!--|`'{a-z}`  | Press ', followed by any lowercase letter        |-->
+<!--| `m{a-zA-Z}`   | Press m, followed by any lowercase or uppercase letter        |-->
+<!--| `d{motion}`   | Press d, followed by any motion command        |-->
+<!--| `<C-r>{register}`   | Press <Ctrl> and r at the same time, followed by the address of a register |-->
 
-Some keys are called by name, some examples are:
+<!--Some keys are called by name, some examples are:-->
 
 
-| Notation      | Meaning |
-| ----------- | ----------- |
-| `<Esc>`    | Press the Escape key       |
-| `<CR>`  | Press the carriage return key (also known as <Enter>        |
-| `<Ctrl>`   | Press the Control key        |
-| `<Tab>`	   | Press the Tab key       |
-| `<Shift>`   | Press the Shift key |
-| `<S-Tab>`   | Press the <Shift> and <Tab> keys at the same time |
-| `<Up>`   | Press the up arrow key |
-| `<Down>`   | Press the down arrow key |
+<!--| Notation      | Meaning |-->
+<!--| ----------- | ----------- |-->
+<!--| `<Esc>`    | Press the Escape key       |-->
+<!--| `<CR>`  | Press the carriage return key (also known as <Enter>        |-->
+<!--| `<Ctrl>`   | Press the Control key        |-->
+<!--| `<Tab>`	   | Press the Tab key       |-->
+<!--| `<Shift>`   | Press the Shift key |-->
+<!--| `<S-Tab>`   | Press the <Shift> and <Tab> keys at the same time |-->
+<!--| `<Up>`   | Press the up arrow key |-->
+<!--| `<Down>`   | Press the down arrow key |-->
 
 
 
