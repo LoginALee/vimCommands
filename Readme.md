@@ -103,6 +103,7 @@ Some keys are called by name, some examples are:
 | `<S-Tab>`   | Press the <Shift> and <Tab> keys at the same time |
 | `<Up>`   | Press the up arrow key |
 | `<Down>`   | Press the down arrow key |
+| 'test'     | Press test  1 |
 
 
 
